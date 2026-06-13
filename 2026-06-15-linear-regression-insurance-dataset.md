@@ -77,3 +77,4 @@ This exercise provided practical exposure to the complete machine learning workf
 - ## Resources
 
 - Google Colab Notebook: [Open Notebook](https://colab.research.google.com/drive/14eUHAz-UB-VU23Ei8Ty5k-vhKvNhOA8w?usp=sharing)
+- - Notebook: [Linear Regression Hands-on](./Linear_Regression_handson.ipynb)
