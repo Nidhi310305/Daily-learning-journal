@@ -6,3 +6,4 @@
 
 - ## 15 June 2026
 - Linear Regression on Insurance Dataset
+- Next will be naive bayes
