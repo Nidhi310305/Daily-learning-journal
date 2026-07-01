@@ -28,11 +28,12 @@ This repository serves as a technical journal where I document concepts studied,
 
 ## Learning Entries
 
-| Date       | Topic                                                                                                                      | Category         |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 2026-06-15 | [Linear Regression on Insurance Dataset](2026-06-15-linear-regression-insurance-dataset.md)                                | Machine Learning |
-| 2026-06-25 | [Housing Price Prediction using Linear Regression](2026-06-25-housing-price-prediction-linear-regression.md)               | Machine Learning |
-| 2026-06-26 | [Bank Marketing Classification using Logistic Regression](2026-06-26-logistic-regression-bank-marketing-classification.md) | Machine Learning |
+| Date       | Topic                                                                                                                      | Category         | Level                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------- |
+| 2026-06-15 | [Linear Regression on Insurance Dataset](2026-06-15-linear-regression-insurance-dataset.md)                                | Machine Learning | Beginner              |
+| 2026-06-25 | [Housing Price Prediction using Linear Regression](2026-06-25-housing-price-prediction-linear-regression.md)               | Machine Learning | Beginner              |
+| 2026-06-26 | [Bank Marketing Classification using Logistic Regression](2026-06-26-logistic-regression-bank-marketing-classification.md) | Machine Learning | Beginner–Intermediate |
+| 2026-06-27 | [Decision Tree Classification](2026-06-27-decision-tree-classification.md)                                                 | Machine Learning | Intermediate          |
 
 ---
 
@@ -91,6 +92,22 @@ This repository is intended to:
 * Maintain a consistent record of hands-on implementations.
 * Create a personal reference for revision and future projects.
 * Demonstrate continuous learning and technical development.
+
+---
+
+## Learning Roadmap
+
+Current progression:
+
+* ✅ Linear Regression
+* ✅ Logistic Regression
+* ✅ Decision Trees
+* 🔜 Random Forest
+* 🔜 Naive Bayes
+* 🔜 Support Vector Machine (SVM)
+* 🔜 K-Nearest Neighbors (KNN)
+* 🔜 K-Means Clustering
+* 🔜 Principal Component Analysis (PCA)
 
 ---
 
